@@ -9,6 +9,8 @@ Portfolio project which integrates different frameworks and libraries in order t
 - [Setup environment](#setup-environment)
 - [Build react-redux-jersey-springboot-hibernate-intergration](#build-react-redux-jersey-springboot-hibernate-intergration)
 - [Usage](#usage)
+- [FrameWork's & Libraries used](#framework-s---libraries-used)
+- [License and author info](#license-and-author-info)
 
 * * *
 
