@@ -14,6 +14,10 @@ Portfolio project which integrates different frameworks and libraries in order t
 
 * * *
 
+# React and Redux Source Code
+* This project contains the minified bundle of the Front-End React and Redux source code
+* To download unminified Front-End source code please visit https://github.com/rambihari/React-Redux-Source-Code
+
 # Setup environment
 
 1. Download and Install maven by clicking the download link on https://maven.apache.org/install.html
