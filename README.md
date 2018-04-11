@@ -5,11 +5,11 @@ Portfolio project which integrates different frameworks and libraries in order t
 
 # Table of Contents
 - [react-redux-jersey-springboot-hibernate-intergration](#react-redux-jersey-springboot-hibernate-intergration)
-- [Table of Contents](#table-of-contents)
+- [React and Redux Source Code](#react-and-redux-source-code)
 - [Setup environment](#setup-environment)
 - [Build react-redux-jersey-springboot-hibernate-intergration](#build-react-redux-jersey-springboot-hibernate-intergration)
 - [Usage](#usage)
-- [FrameWork's & Libraries used](#framework-s---libraries-used)
+- [Languages,Framworks and tools](#languages-framworks-and-tools)
 - [License and author info](#license-and-author-info)
 
 * * *
@@ -42,16 +42,22 @@ Open http://localhost:8080 in your browser, and voilà.
   <img src="https://i.imgur.com/54P0zsb.png" width="350"/>
 </p>
 
-# FrameWork's & Libraries used
-* Front-End
-  * **React**
-  * **React-Router**
-  * **Redux**
-
-* Back-End
-  * **Spring boot**
-  * **Hibernate**
-  * **Jersey**
+# Languages,Framworks and tools
+  * **JavaScript** <br/>
+    * React is used for UI.
+    * Redux is used to track application state
+    * React-Router is used to navigate in between components
+    * Eslint is used to prevent JavaScript error.
+    * Webppack to allow us to write our client-side scripts with es6 syntax
+    * Express is used for hosting the application
+    * Npm is used to run scripts and manage dependencies
+  * **CSS** <br/>
+    * Bootstrap is used for styling components
+  * **Java** <br/>
+    * Spring Boot to run spring scripts
+    * Hibernate is used persist data
+    * Jersey is used to implement a Restful Api
+    * Maven is used to manage dependencies 
 
 # License and author info
 **Author Name:- Rambihari Raman** <br />
