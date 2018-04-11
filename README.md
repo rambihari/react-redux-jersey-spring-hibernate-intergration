@@ -36,6 +36,17 @@ Open http://localhost:8080 in your browser, and voilà.
   <img src="https://i.imgur.com/54P0zsb.png" width="350"/>
 </p>
 
+# FrameWork's & Libraries used
+* Front-End
+  * **React**
+  * **React-Router**
+  * **Redux**
+
+* Back-End
+  * **Spring boot**
+  * **Hibernate**
+  * **Jersey**
+
 # License and author info
 **Author Name:- Rambihari Raman** <br />
 **Contact Information:- Rambihari2@gmail.com** <br />
