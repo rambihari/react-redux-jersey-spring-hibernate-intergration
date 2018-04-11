@@ -54,7 +54,7 @@ Open http://localhost:8080 in your browser, and voilà.
   * **CSS** <br/>
     * Bootstrap is used for styling components
   * **Java** <br/>
-    * Spring Boot to run spring scripts
+    * Spring Boot as a IOC container
     * Hibernate is used persist data
     * Jersey is used to implement a Restful Api
     * Maven is used to manage dependencies 
