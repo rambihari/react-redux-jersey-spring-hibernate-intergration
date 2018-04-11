@@ -16,7 +16,9 @@ Portfolio project which integrates different frameworks and libraries in order t
 
 # React and Redux Source Code
 * This project contains the minified bundle of the Front-End React and Redux source code
-* To download unminified Front-End source code please visit https://github.com/rambihari/React-Redux-Source-Code
+* To download Front-End source code please visit https://github.com/rambihari/React-Redux-Source-Code
+
+## This is an SPA application
 
 # Setup environment
 
@@ -24,9 +26,11 @@ Portfolio project which integrates different frameworks and libraries in order t
 
 2. Add the unpacked distribution’s bin directory to your user PATH environment variable by opening up the system properties (WinKey + Pause), selecting the “Advanced” tab, and the “Environment Variables” button, then adding or selecting the PATH variable in the user variables with the value C:\Program Files\apache-maven-3.5.3\bin.
 
-# Build react-redux-jersey-springboot-hibernate-intergration
+**For unix or linux enviornment use appropriate commands in order to add maven to path**
 
-From the root directory, run mvn spring-boot:run in the command line
+# Run react-redux-jersey-springboot-hibernate-intergration
+
+From the root directory, run command mvn spring-boot:run in the command line
 Open http://localhost:8080 in your browser, and voilà.
 
 # Usage
@@ -45,19 +49,16 @@ Open http://localhost:8080 in your browser, and voilà.
 # Languages,Framworks and tools
   * **JavaScript** <br/>
     * React is used for UI.
-    * Redux is used to track application state
-    * React-Router is used to navigate in between components
-    * Eslint is used to prevent JavaScript error.
-    * Webppack to allow us to write our client-side scripts with es6 syntax
-    * Express is used for hosting the application
+    * Redux is used to track application state and control application flow
+    * React-Router is used to navigate in between diffrent routes
     * Npm is used to run scripts and manage dependencies
   * **CSS** <br/>
     * Bootstrap is used for styling components
   * **Java** <br/>
     * Spring Boot as a IOC container
-    * Hibernate is used persist data
+    * Hibernate is the ORM tool
     * Jersey is used to implement a Restful Api
-    * Maven is used to manage dependencies 
+    * Maven 
 
 # License and author info
 **Author Name:- Rambihari Raman** <br />
